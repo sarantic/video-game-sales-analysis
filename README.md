@@ -31,7 +31,7 @@ Understanding the factors associated with commercially successful video games is
 │   └── video_games.csv
 ├── notebooks/
 │   └── video_game_sales_analysis.ipynb
-├── images/
+├── image/
 ├── README.md
 └── requirements.txt
 ```
